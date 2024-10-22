@@ -1,0 +1,27 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.info {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+a:hover {
+    color: red;
+}
+
+img {
+    border: 5px solid #000;
+    padding: 10px;
+}
+
+#about {
+    background-color: #e0e0e0;
+    border: 2px solid #ccc;
+}
+
+#projects {
+    background-color: #d0d0d0;
+    border: 2px solid #bbb;
+}
